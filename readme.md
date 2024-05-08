@@ -5,7 +5,7 @@ A DS homebrew tech demo where one can hop around some 3D platforms with some bou
 
 Made as my degree's final project.
 
-Relies on [BlocksDS](https://github.com/blocksds/sdk/), [Nitro Engine](https://github.com/AntonioND/nitro-engine), and [NightFox's Lib](https://github.com/knightfox75/nds_nflib), and based on [a template using the latter two](https://github.com/AntonioND/nitro-engine/tree/master/examples/templates/using_nflib).
+Relies on [BlocksDS](https://github.com/blocksds/sdk/), [Nitro Engine](https://github.com/AntonioND/nitro-engine), and [NightFox's Lib](https://github.com/knightfox75/nds_nflib), and based on [a template using the latter two](https://github.com/AntonioND/nitro-engine/tree/master/examples/templates/using_nflib). Major kudos to all the folks behind these for their hard work here.
 
 ## Controls
 **D-Pad -** Move forward, backward, or to the sides.
