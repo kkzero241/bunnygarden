@@ -9,9 +9,13 @@ Relies on [BlocksDS](https://github.com/blocksds/sdk/), [Nitro Engine](https://g
 
 ## Controls
 **D-Pad -** Move forward, backward, or to the sides.
+
 **L/R Buttons -** Turn to the sides.
+
 **A Button -** Jump or scale a platform/object.
+
 **Start Button -** Pause gameplay.
+
 **Select Button -** Exit to loader.
 
 ## Building
